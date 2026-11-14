@@ -4,7 +4,7 @@ Web belajar **Six Sigma, TPM, Lean, dan Problem Solving** yang interaktif. Konse
 
 ## 🔗 Buka aplikasinya
 
-**👉 https://bagusbernadi.github.io/six-sigma-sandbox/**
+**👉 https://bagusbernadi.github.io/six-sigma-class/**
 
 Tidak perlu instalasi. Bisa juga dibuka offline dengan mengunduh repo ini lalu membuka `index.html`.
 
